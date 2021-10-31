@@ -1,4 +1,4 @@
-baseURL = 'http://thisorganizedlife.ca/'
+baseURL = 'http://commandlineskule.ca/'
 languageCode = 'en-us'
-title = 'This Organized Life'
+title = 'Command Line Skule'
 theme = "PaperMod"
